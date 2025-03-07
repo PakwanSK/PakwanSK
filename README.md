@@ -7,7 +7,7 @@ Student - Computer Engineering Intern
 I am passionate about Software Developer, Web Developer and Cybersecurity. I have completed class modules in Web Designer and Developer, Network Administrator, Software Defined Architecture Engineer, Embedded System Developer, IoT System Developer and Now I am in class Cybersecurity Officer Module.
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [pakwan270602@gmail.com](mailto:pakwan270602@gmail.com)
+* ✉️  You can contact me at [pakwan.sena@gmail.com](mailto:pakwan.sena@gmail.com)
 * 🧠  I'm learning Cybersecurity Officer Module
 
 ### Skills
