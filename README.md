@@ -1,14 +1,14 @@
 Hi, My name is Pakwan Senakphotchawong
 ========================================
 
-Student - Computer Engineering Intern
+Computer Engineer
 -------------------------------------
 
 I am passionate about Software Developer, Web Developer and Cybersecurity. I have completed class modules in Web Designer and Developer, Network Administrator, Software Defined Architecture Engineer, Embedded System Developer, IoT System Developer and Now I am in class Cybersecurity Officer Module.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pakwan.sena@gmail.com](mailto:pakwan.sena@gmail.com)
-* 🧠  I'm learning Cybersecurity Officer Module
+* 🧠  I'm learning Cybersecurity and Full Stack Developer
 
 ### Skills
 
